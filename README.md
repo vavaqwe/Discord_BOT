@@ -1,6 +1,6 @@
 # Discord_BOT
 
-![Discord Logo](https://cdn.discordapp.com/attachments/123456789012345678/123456789012345678/discord_logo.png)
+![Discord Logo]
 
 Ласкаво просимо до репозиторію Discord_BOT! Цей бот призначений для відтворення музики на вашому сервері Discord. Він використовує бібліотеку discord.py і вимагає попереднього встановлення [FFmpeg](https://ffmpeg.org/) для коректної роботи аудіофункцій.
 
